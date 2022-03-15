@@ -2,7 +2,7 @@
 
 <br/>
 
-<a href="https://https://www.linkedin.com/in/caique-souza10/">
+<a href="https://www.linkedin.com/in/caique-souza10/">
   <img align="left" alt="tCaique Souza Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -11,7 +11,8 @@
   <img align="left" alt="Caique Souza Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-
+<br />
+<br/>
 
 ##  Oi 👋,
 Sou Kunal Raghav, sou engenheiro de software 👨‍💻 apaixonado por tecnologias móveis e código aberto. Eu também sou um autoproclamado designer gráfico e internauta
