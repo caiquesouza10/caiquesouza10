@@ -15,23 +15,6 @@
 <br/>
 
 ##  Oi 👋,
-Sou Kunal Raghav, sou engenheiro de software 👨‍💻 apaixonado por tecnologias móveis e código aberto. Eu também sou um autoproclamado designer gráfico e internauta
-🏄‍♂️.
-
-- 🔭 Atualmente estou trabalhando em aplicativos Android
-- 🌱 Atualmente estou aprendendo JavaScript
-- 💬 Pergunte-me sobre: ​​tecnologia, memes, anime
-- 😄 Pronomes: ele/ele
--   ⚡ Idiomas: Java, Kotlin, Python3
-
-
-> El Psy Kongroo
-
----
-⭐️ De [ KunalRaghav ](https://github.com/KunalRaghav)
-
-
-##  Oi 👋,
 Sou Caique Souza, sou formado em Redes de Computadores e estudante de desenvolvimento 👨‍💻 apaixonado por tecnologias e códigos.
 
 - 😄Pronomes: ele/dele
