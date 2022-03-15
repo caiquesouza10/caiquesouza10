@@ -2,14 +2,12 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/caique-souza10/">
-  <img align="left" alt="tCaique Souza Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
-<a href="mailto:10c.souza10@gmail.com">
-  <img align="left" alt="Caique Souza Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+ <a href="https://www.linkedin.com/in/caique-souza10/">
+    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a>   
+  <a href="mailto:10c.souza10@gmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
 
 <br />
 <br/>
