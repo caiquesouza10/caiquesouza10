@@ -1,5 +1,16 @@
 #  Caique Souza
 
+<br/>
+
+<a href="https://https://www.linkedin.com/in/caique-souza10/">
+  <img align="left" alt="tCaique Souza Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+
+<a href="mailto:10c.souza10@gmail.com">
+  <img align="left" alt="Caique Souza Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
 
 
 ##  Oi 👋,
