@@ -22,8 +22,5 @@ Sou Caique Souza, sou formado em Redes de Computadores e estudante de desenvolvi
 - 🎓Cursando o Programa Starter Web Developer Full Stack da Growdev!
 
 
-
-> El Psy Kongroo
-
 ---
 ⭐️ De [ Caique Souza ](https://github.com/caiquesouza10)
