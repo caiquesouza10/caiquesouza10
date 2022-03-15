@@ -1,7 +1,6 @@
 #  Caique Souza
 
-[![ Linkedin Badge ](https://img.shields.io/badge/-caiquesouzav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin .com/in/caique-souza10/)](https://www.linkedin.com/in/caique-souza10/)
-[![ Selo do Gmail ](https://img.shields.io/badge/-10c.souza10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:10c.souza10@gmail.com)](mailto: 10c.souza10@gmail.com)
+
 
 ##  Oi 👋,
 Sou Kunal Raghav, sou engenheiro de software 👨‍💻 apaixonado por tecnologias móveis e código aberto. Eu também sou um autoproclamado designer gráfico e internauta
